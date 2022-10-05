@@ -7,6 +7,6 @@ Work Career : BGF Retail - Business Management (S/C)
    My Interests : Fashion Big Data, Soccer Big Data   
 
 ### 2. My Computer Engeineering Language 
-####৹ C, C++, Python, Java, mySQL, AndroidStudio, Swift ...
+#### ৹ C, C++, Python, Java, mySQL, AndroidStudio, Swift ...
 
 ####
