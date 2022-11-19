@@ -2,10 +2,11 @@
 #### 
 ### 1. I'M ?!
 #### ৹ Jae Hyun Kim / 29 / Student
+Education : DongGuk University (Department of Computer Engineering)
 Work Career : BGF Retail - Business Management (S/C)   
    Hobby : Crafts, Make Music   
    My Interests : Fashion Big Data, Soccer Big Data   
-
+####  
 ### 2. My Computer Engeineering Language 
 #### ৹ C, C++, Python, Java, mySQL, AndroidStudio, Swift ...
 
