@@ -4,6 +4,7 @@
 #### ৹ Jae Hyun Kim / 29 / Student
 
    Work Career : 2021.08 ~ 2021.09 BGF Retail 
+   
    Hobby : Crafts, Make Music   
    My Interests : Fashion Big Data, Soccer Big Data   
 ####  
