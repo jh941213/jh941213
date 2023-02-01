@@ -13,4 +13,5 @@
 
 ### 2. My Github stats
 
-![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)
+![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh941213&layout=compact&theme=tokyonight)
