@@ -11,5 +11,4 @@
 ### 2. My Computer Engeineering Language 
 #### ৹ C, C++, Python, Java, mySQL, AndroidStudio, Swift ...
 
-####
-####
+![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)
