@@ -21,7 +21,7 @@
 - Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ **동메달**
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **1위 상금 20만원**
 
-#### 📝 Result.
+#### 📝 Result
 
 - Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
 - Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
@@ -63,10 +63,7 @@
 <br/>
 <br/>
 
-### 3. My Projet & Competition. 
-  
-   
-   
+### 3. My Projet & Competition  
 
 <img width="759" alt="스크린샷 2023-03-28 오후 2 30 34" src="https://user-images.githubusercontent.com/112835087/228138717-1f396b74-939f-48e2-ac65-014f794ca875.png">
 
