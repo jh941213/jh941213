@@ -8,6 +8,12 @@
 - 2021.08 ~ 2022. 09 BGF Retail
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 
+---
+## 🖨️ O**utside Activities.**. 
+
+- 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원
+- 2023.01.31 AI 커뮤니티 필드로 스며들기 - 모두의 연구소
+
 ####  
 ### 2. My Computer Engeineering Language 
 ####
@@ -43,30 +49,18 @@
 <br/>
 <br/>
 
-### 3. My Github stats
-
-![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh941213&layout=compact&theme=tokyonight)
-
-### 4. My Projet & Competition. 
+### 3. My Projet & Competition. 
   
    
    
 
 <img width="759" alt="스크린샷 2023-03-28 오후 2 30 34" src="https://user-images.githubusercontent.com/112835087/228138717-1f396b74-939f-48e2-ac65-014f794ca875.png">
 
----
+### 3. My Github stats
 
+![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh941213&layout=compact&theme=tokyonight)
 
-## 🏢 Career.
-
----
-
-- 2011 MBCgameHeros Online Tranie by SC1
-- 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
-- 2021.08 ~ 2022. 09 BGF Retail
-- 2022.10 ~ 2022.03 딥러닝 Boot Camp
-- 2023.01 ~ 2023.03 NAVER A.I Boost Study
 
 ## 🖨️ O**utside Activities.**
 
