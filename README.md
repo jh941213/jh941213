@@ -9,7 +9,7 @@
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 
 ---
-#### 🖨️ O**utside Activities. 
+#### 🖨️ Outside Activities. 
 - 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원
 - 2023.01.31 AI 커뮤니티 필드로 스며들기 - 모두의 연구소
 
