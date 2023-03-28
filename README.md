@@ -2,11 +2,15 @@
 #### 
 ### 1. I'M ?!
 #### ৹ Jae Hyun Kim / 29 / Student
+#### 🏢 Career.
 
-   Work Career : 2021.08 ~ 2021.09 BGF Retail 
-   
-   Hobby : Crafts, Make Music   
-   My Interests : Fashion Big Data, Soccer Big Data   
+---
+
+- 2011 MBCgameHeros Online Tranie by SC1
+- 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
+- 2021.08 ~ 2022. 09 BGF Retail
+- 2022.10 ~ 2022.03 딥러닝 Boot Camp
+- 2023.01 ~ 2023.03 NAVER A.I Boost Study 
 ####  
 ### 2. My Computer Engeineering Language 
 ####
@@ -51,11 +55,11 @@
   
    
    
-   ## ⌨️ **Project & Competition.**
+
+<img width="759" alt="스크린샷 2023-03-28 오후 2 30 34" src="https://user-images.githubusercontent.com/112835087/228138717-1f396b74-939f-48e2-ac65-014f794ca875.png">
 
 ---
 
-![스크린샷 2023-03-28 오후 2.30.34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bdeb6a8-85ab-47d4-b38d-d5547d15f204/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.30.34.png)
 
 ## 🏢 Career.
 
