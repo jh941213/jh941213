@@ -5,7 +5,7 @@
 ![64897_86595_4647](https://user-images.githubusercontent.com/112835087/228140460-dc28ad9d-b90c-43fe-90c6-9e964ae27247.jpg)
 #### MY Notion
 <a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>. 
+<a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
 #### 🏢 Career
 - 2011 MBCgameHeros Online Tranie by SC1
