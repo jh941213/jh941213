@@ -18,8 +18,8 @@
 
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
 - 네이버 A.I 부스트 스터디 **9기 미션왕 팀 (ryan 05팀)**
-- Kaggle ‘1st and Future - Player Contact Detection’ **동메달**
-- Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ **동메달**
+- Kaggle ‘1st and Future - Player Contact Detection’ **Bronze**
+- Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ **Bronze**
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **1위 상금 20만원**
 
 #### 📝 Result
