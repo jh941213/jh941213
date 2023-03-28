@@ -21,9 +21,7 @@
 - Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ **동메달**
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **1위 상금 20만원**
 
-#### 📝 Result
-
-- Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
+#### 📝 Result
 - Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
 - Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ **상위 4% public(11위) private(23위)**
 - Dacon ‘데이콘 Basic 전화 해지 여부 분류 AI 경진대회’ **34등 761 등 상위 5%**
