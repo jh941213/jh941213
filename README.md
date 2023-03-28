@@ -2,23 +2,24 @@
 #### 
 ### 1. I'M ?!
 #### ৹ Jae Hyun Kim / 30 / Student
+
+#### MY Notion
+<a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 ![64897_86595_4647](https://user-images.githubusercontent.com/112835087/228140460-dc28ad9d-b90c-43fe-90c6-9e964ae27247.jpg)
-#### 🏢 Career.  
+
+#### 🏢 Career
 - 2011 MBCgameHeros Online Tranie by SC1
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
 - 2021.08 ~ 2022. 09 BGF Retail
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 
 
-#### MY Notion
-<a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
-
-#### 🖨️ Outside Activities. 
+#### 🖨️ Outside Activities
 - 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원
 - 2023.01.31 AI 커뮤니티 필드로 스며들기 - 모두의 연구소
 
-#### 🏆Aword.
+#### 🏆Aword
 
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
 - 네이버 A.I 부스트 스터디 **9기 미션왕 팀 (ryan 05팀)**
