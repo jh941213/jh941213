@@ -1,7 +1,8 @@
 # MY Engeineering note
 #### 
 ### 1. I'M ?!
-#### ৹ Jae Hyun Kim / 29 / Student
+#### ৹ Jae Hyun Kim / 30 / Student
+![64897_86595_4647](https://user-images.githubusercontent.com/112835087/228140460-dc28ad9d-b90c-43fe-90c6-9e964ae27247.jpg)
 #### 🏢 Career.  
 - 2011 MBCgameHeros Online Tranie by SC1
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
