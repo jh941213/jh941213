@@ -9,7 +9,11 @@
 - 2021.08 ~ 2022. 09 BGF Retail
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 
-- 
+
+#### MY Notion
+<a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+
 #### 🖨️ Outside Activities. 
 - 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원
 - 2023.01.31 AI 커뮤니티 필드로 스며들기 - 모두의 연구소
