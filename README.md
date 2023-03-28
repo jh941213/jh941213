@@ -2,10 +2,7 @@
 #### 
 ### 1. I'M ?!
 #### ৹ Jae Hyun Kim / 29 / Student
-#### 🏢 Career.
-
----
-
+#### 🏢 Career.  
 - 2011 MBCgameHeros Online Tranie by SC1
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
 - 2021.08 ~ 2022. 09 BGF Retail
