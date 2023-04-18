@@ -82,7 +82,8 @@
 
 ### 3. My Projet & Competition  
 
-<img width="759" alt="스크린샷 2023-03-28 오후 2 30 34" src="https://user-images.githubusercontent.com/112835087/228138717-1f396b74-939f-48e2-ac65-014f794ca875.png">
+<img width="785" alt="스크린샷 2023-04-17 오후 1 51 36" src="https://user-images.githubusercontent.com/112835087/232699746-71400858-3d54-4aa5-9d5c-f844351b4944.png">
+
 
 ### 4. My Github stats
 
