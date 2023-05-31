@@ -40,8 +40,8 @@
 - Kaggle ‘1st and Future - Player Contact Detection’ **🥉Bronze**
 - Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ **🥉Bronze**
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **🥇1위 상금 20만원**
-- Dacon Competition Silver (181 of 83897)
-- <img width="300" alt="스크린샷 2023-05-31 오전 11 23 23" src="https://github.com/jh941213/jh941213/assets/112835087/e9af7f5d-e390-46be-8f57-5d6670ea6807">
+- Dacon Competition Silver (181 of 83897)  
+<img width="300" alt="스크린샷 2023-05-31 오전 11 23 23" src="https://github.com/jh941213/jh941213/assets/112835087/e9af7f5d-e390-46be-8f57-5d6670ea6807">
 
 #### 📝 Result
 - Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
