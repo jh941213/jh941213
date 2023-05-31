@@ -54,8 +54,8 @@
 ####
 ✏ **Task**
 
-<a href="https://github.com/dbtjr1103/mainpj"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
-
+<a href="https://github.com/jh941213/Logistics-Project"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
+<a href="https://github.com/jh941213/ChatGPT_n_DALL-E"><img src="https://img.shields.io/badge/NLP-chatbot-yellowgreen"/>
 
 <br/>
 <br/>
