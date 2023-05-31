@@ -16,7 +16,8 @@
 
 **blog(티스토리)** : [https://hyun941213.tistory.com/](https://hyun941213.tistory.com/)
 
-![64897_86595_4647](https://user-images.githubusercontent.com/112835087/228140460-dc28ad9d-b90c-43fe-90c6-9e964ae27247.jpg)
+<img width="715" alt="스크린샷 2023-05-31 오전 11 20 56" src="https://github.com/jh941213/jh941213/assets/112835087/a3fb58c9-ec11-4e51-9ab3-d2255736ab97">
+
 #### 📚 MY Notion
 <a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
