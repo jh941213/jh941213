@@ -41,14 +41,16 @@
 - Kaggle ‘1st and Future - Player Contact Detection’ **🥉Bronze**
 - Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ **🥉Bronze**
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **🥇1위 상금 20만원**
-- Dacon Competition Silver (181 of 83897)  
-<img width="300" alt="스크린샷 2023-05-31 오전 11 23 23" src="https://github.com/jh941213/jh941213/assets/112835087/e9af7f5d-e390-46be-8f57-5d6670ea6807">
+- **Dacon 🥈Silver 등급 달성** 125 of 84378
+- **Kaggle Expert 등급 달성**
 
 #### 📝 Result
-- Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
-- Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ **상위 4% public(11위) private(23위)**
-- Dacon ‘데이콘 Basic 전화 해지 여부 분류 AI 경진대회’ **34등 761 등 상위 5%**
-- Dacon '제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회' **상위 10%**
+- Kaggle ’** Playground Series - Season 3, Episode 10’  91st of 807 상위 12%**
+- Dacon ‘**제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’  public(11위) private(23위) 상위 6%**
+- Dacon ‘**데이콘 Basic 전화 해지 여부 분류 AI 경진대회’ 34/761  상위 5%**
+- Dacon ‘**데이콘 ChatGPT 활용 AI 경진대회’  49/556  상위 10%**
+- Dacon ‘**한솔 x 데이콘 **도배 하자 유형 분류 AI 경진대회’ 51/1025 상위 5%**
+- Dacon ‘**제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회(채용 연계형)’ 63/679 상위10%**
 
 ####  
 ### 2. My Computer Engeineering Language 
