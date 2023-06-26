@@ -25,7 +25,7 @@
 - 2011 MBCgameHeros Online Tranie by SC1
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
 - 2021.08 ~ 2022. 09 BGF Retail
-- 2023.05 ~  WIZnet A.I Engineer  
+- 2023.05 ~  A.I Engineer  
 
 #### 🖨️ Outside Activities
 - 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원  
