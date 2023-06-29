@@ -1,7 +1,7 @@
 # MY Engeineering note
 #### 
 ### 1. I'M ?!
-#### ৹ Jae Hyun Kim(Simon) / 30 / Student
+#### ৹ Jae Hyun Kim(Simon) / 30 / Engineer
 
 #### 📱Contact
 
