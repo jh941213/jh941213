@@ -34,7 +34,9 @@
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)  
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp  
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터  
-- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리드부스터   
+- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리드부스터
+- 2023.06 ~ 2023.08 모두의 연구소 풀잎스쿨 (머신러닝 - 데이터 분석 완벽가이드) 연구원  
+- 2023.06 ~ 2023.08 모두의 연구소 풀잎스쿨 (ChatGPT 마켓팅 활용) 연구원  
 
 #### 🏆Awards
 
@@ -42,7 +44,8 @@
 - 네이버 A.I 부스트 스터디 **9기 미션왕 팀 (ryan 05팀)**
 - Kaggle ‘1st and Future - Player Contact Detection’ **🥉Bronze**  
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **🥇1위 상금 20만원**
-- **Dacon 🥈Silver 등급 달성** 125 of 84378  
+- **Dacon 🥈Silver 등급 달성** 108 of 84378  
+- AICE: Associate (인공지능 자격증)
 
 #### 📝 Result
 - Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
@@ -51,6 +54,9 @@
 - Dacon ‘데이콘 ChatGPT 활용 AI 경진대회’  49/556  **상위 10%**
 - Dacon ‘한솔 x 데이콘 도배 하자 유형 분류 AI 경진대회’ 51/1025 **상위 5%**
 - Dacon ‘제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회(채용 연계형)’ **63/679 상위10%**
+- Dacon ‘**데이콘 Basic 자동차 가격 예측 AI 경진대회’ 13/392 상위5%**  
+- Dacon ‘**월간 데이콘 법원 판결 예측 AI 경진대회’ 48/808 상위10%**  
+- Dacon ‘**합성데이터 기반 객체 탐지 AI 경진대회’ 54/1461 상위10%**  
 
 ####  
 ### 2. My Computer Engeineering Language 
@@ -89,7 +95,8 @@
 
 ### 3. My Projet & Competition  
 
-<img width="785" alt="스크린샷 2023-04-17 오후 1 51 36" src="https://user-images.githubusercontent.com/112835087/232699746-71400858-3d54-4aa5-9d5c-f844351b4944.png">
+<img width="783" alt="스크린샷 2023-07-04 오전 9 14 21" src="https://github.com/jh941213/jh941213/assets/112835087/45d09469-53d1-47f7-ae00-112f905d6854">
+
 
 
 ### 4. My Github stats
