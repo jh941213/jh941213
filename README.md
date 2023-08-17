@@ -44,7 +44,8 @@
 - 네이버 A.I 부스트 스터디 **9기 미션왕 팀 (ryan 05팀)**
 - Kaggle ‘1st and Future - Player Contact Detection’ **🥉Bronze**  
 - Kaggle ’Counting and categorizing vehicles in surveillance’ **🥇1위 상금 20만원**
-- **Dacon 🥈Silver 등급 달성** 108 of 84378  
+- Dacon ‘멀티모달 이미지기반 질의(VQA)' **2위** 
+- **Dacon 🥈Silver 등급 달성** 52 of 89,980
 - AICE: Associate (인공지능 자격증)
 
 #### 📝 Result
