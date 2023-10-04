@@ -94,13 +94,8 @@
 <br/>
 <br/>
 
-### 3. My Projet & Competition  
 
-<img width="783" alt="스크린샷 2023-07-04 오전 9 14 21" src="https://github.com/jh941213/jh941213/assets/112835087/45d09469-53d1-47f7-ae00-112f905d6854">
-
-
-
-### 4. My Github stats
+### 3. My Github stats
 
 ![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh941213&layout=compact&theme=tokyonight)
