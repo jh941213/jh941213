@@ -28,36 +28,36 @@
 - 2023.05 ~  A.I Engineer  
 
 #### 🖨️ Outside Activities
-- 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원  
-- 2023.01.31 AI 커뮤니티 필드로 스며들기 - 모두의 연구소  
-- 2023.04.12 ~ 2023.04.15 R 언어 통계활용으로 눈문작성 - 국립중앙도서관  
-- 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)  
-- 2022.10 ~ 2022.03 딥러닝 Boot Camp  
-- 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터  
-- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리드부스터
-- 2023.06 ~ 2023.08 모두의 연구소 풀잎스쿨 (머신러닝 - 데이터 분석 완벽가이드) 연구원  
-- 2023.06 ~ 2023.08 모두의 연구소 풀잎스쿨 (ChatGPT 마켓팅 활용) 연구원  
+- 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원
+- 2023.01.31 AI 커뮤니티 필드로 스며들기 - 모두의 연구소
+- 2023.04.12 ~ 2023.04.15 R 언어 통계활용으로 눈문작성 - 국립중앙도서관
+- 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
+- 2022.10 ~ 2022.03 딥러닝 Boot Camp
+- 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터
+- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더 부스터
+- 2023.10 ~ 2023.11 NAVER A.I Boost Study 13기 리더
+- AICE(인공지능 자격증): Basic, Associate 사내교육 진행 전직원 90%이상 합격
 
 #### 🏆Awards
-
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
+- 딥러닝 부트캠프 4기 자연어처리 **우수프로젝트**
+- 딥러닝 부트캠프 4기 실무프로젝트 **우수프로젝트**
 - 네이버 A.I 부스트 스터디 **9기 미션왕 팀 (ryan 05팀)**
-- Kaggle ‘1st and Future - Player Contact Detection’ **🥉Bronze**  
-- Kaggle ’Counting and categorizing vehicles in surveillance’ **🥇1위 상금 20만원**
-- Dacon ‘멀티모달 이미지기반 질의(VQA)' **2위** 
-- **Dacon 🥈Silver 등급 달성** 52 of 89,980
-- AICE: Associate (인공지능 자격증)
+- Kaggle ‘[**1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection)’ Bronze**
+- Kaggle ’****Counting and categorizing vehicles in surveillance’ 1위 상금 20만원**
+- Dacon **‘멀티모달 이미지 기반질의 응답’** 2위 WINNER
+- Dacon **Gold 등급 달성 전국순위 30등** of 88280
 
 #### 📝 Result
-- Kaggle ’Playground Series - Season 3, Episode 10’  **91st of 807 상위 12%**
-- Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’  **public(11위) private(23위) 상위 6%**
-- Dacon ‘데이콘 Basic 전화 해지 여부 분류 AI 경진대회’ **34/761  상위 5%**
-- Dacon ‘데이콘 ChatGPT 활용 AI 경진대회’  49/556  **상위 10%**
-- Dacon ‘한솔 x 데이콘 도배 하자 유형 분류 AI 경진대회’ 51/1025 **상위 5%**
-- Dacon ‘제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회(채용 연계형)’ **63/679 상위10%**
-- Dacon ‘**데이콘 Basic 자동차 가격 예측 AI 경진대회’ 13/392 상위5%**  
-- Dacon ‘**월간 데이콘 법원 판결 예측 AI 경진대회’ 48/808 상위10%**  
-- Dacon ‘**합성데이터 기반 객체 탐지 AI 경진대회’ 54/1461 상위10%**  
+- Kaggle’****Playground Series - Season 3, Episode 10’  91st of 807 상위 12%**
+- Dacon ‘**제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’  public(11위) private(23위) 상위 6%**
+- Dacon ‘**데이콘 Basic 전화 해지 여부 분류 AI 경진대회’ 34/761  상위 5%**
+- Dacon ‘**데이콘 ChatGPT 활용 AI 경진대회’  49/556  상위 10%**
+- Dacon ‘한솔 x 데이콘 **도배 하자 유형 분류 AI 경진대회’ 51/1025 상위 5%**
+- Dacon ‘**제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회(채용 연계형)’ 63/679 상위10%**
+- Dacon ‘**데이콘 Basic 자동차 가격 예측 AI 경진대회’ 13/392 상위5%**
+- Dacon ‘**월간 데이콘 법원 판결 예측 AI 경진대회’ 48/506 상위10%**
+- Dacon ‘**합성데이터 기반 객체 탐지 AI 경진대회’ 54/1461 상위10%**
 
 ####  
 ### 2. My Computer Engeineering Language 
