@@ -39,9 +39,7 @@
 - AICE(인공지능 자격증): Basic, Associate 사내교육 진행 전직원 90%이상 합격
 
 #### 🗂️ Project
-생성형 AI 를 활용한 Open AI & SKT 해커톤 - 먹을자U 개발 
-- 원하는 답변을 구체화 하기 위한 프롬프트 엔지니어링
-- Flask 를 활용한 모델 서빙 , Node.js, CSS, HTML을 활용한 웹 프론트엔드 구성
+**생성형 AI**
 
 LLM(LLaMa) FineTunning / Data Preprocessing / Forum Chatbot 
 - Open Source LLM leaderboard 최신 트렌드 모델 Fallow up
@@ -72,6 +70,10 @@ AICE(인공지능 자격증): Basic, Associate 사내교육 진행
 - 제조업 특성에 따른 Edge Device 에 AI 추론가능한 모델 사용 및 셀렉션
 - Onnx, Tensorflow Lite 등 다양한 모델 경량화 시도
 - 모델 아키텍처 및 허깅페이스를 통한 API 화 시도
+
+생성형 AI 를 활용한 Open AI & SKT 해커톤 - 먹을자U 개발 
+- 원하는 답변을 구체화 하기 위한 프롬프트 엔지니어링
+- Flask 를 활용한 모델 서빙 , Node.js, CSS, HTML을 활용한 웹 프론트엔드 구성
 
 #### 🏆Awards
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
