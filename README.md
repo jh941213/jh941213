@@ -78,8 +78,8 @@ AICE(인공지능 자격증): Basic, Associate 사내교육 진행
 - 딥러닝 부트캠프 4기 자연어처리 **우수프로젝트**
 - 딥러닝 부트캠프 4기 실무프로젝트 **우수프로젝트**
 - 네이버 A.I 부스트 스터디 **9기 미션왕 팀 (ryan 05팀)**
-- Kaggle ‘[**1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection)’ Bronze**
-- Kaggle ’****Counting and categorizing vehicles in surveillance’ 1위 상금 20만원**
+- Kaggle 1st and Future - Player Contact Detection’ **Bronze**
+- Kaggle ’**Counting and categorizing vehicles in surveillance’ 1위 상금 20만원**
 - Dacon **‘멀티모달 이미지 기반질의 응답’** 2위 WINNER
 - Dacon **Gold 등급 달성 전국순위 30등** of 88280
 
