@@ -52,6 +52,7 @@ LLM(LLaMa) FineTunning / Data Preprocessing / Forum Chatbot
 사내 및 기술지원용 Chatbot 개발 
 - GPT API 를 활용한 사내 기술지원용 챗봇 제작
 - Open AI Embedding 을 활용한 데이터 Vector화(Vector DataBase)
+- Croma DB, FineCon Vector 엠베딩, 벡터데이터베이스 구축
 - C, C++ 코드 정리 및 임베딩을 통한 코드 추론이 가능하게 끔 데이터 전처리
 - 사내 제품 데이터 시트 정리 및 데이터 제작(PDF, TXT, DataSheet)
 - Langchain, Semantic Kernel의 이해와 프레임워크 학습  
