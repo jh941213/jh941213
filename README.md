@@ -49,7 +49,7 @@ LLM(LLaMa) FineTunning / Data Preprocessing / Forum Chatbot
  모델 셀렉션 및 Fine-Tunning
 - Data Preprocessing(Forum 관련 데이터 말뭉치 전처리, 문맥을 고려한 데이터 전처리)
 - Re-write, Self-instruction, LLM Chaining 등 다양한 방법론을 통한 데이터 전처리
-  - Zero-Shot, Few-Shot 과 같은 비지도 학습 방법론 학습
+- Zero-Shot, Few-Shot 과 같은 비지도 학습 방법론 학습
 
 사내 및 기술지원용 Chatbot 개발 
 - GPT API 를 활용한 사내 기술지원용 챗봇 제작
