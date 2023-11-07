@@ -34,7 +34,7 @@
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터
-- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더 부스터
+- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더
 - 2023.10 ~ 2023.11 NAVER A.I Boost Study 13기 리더
 - AICE(인공지능 자격증): Basic, Associate 사내교육 진행 전직원 90%이상 합격
 
