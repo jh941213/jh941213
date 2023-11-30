@@ -36,7 +36,7 @@
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터
 - 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더
 - 2023.10 ~ 2023.11 NAVER A.I Boost Study 13기 리더
-- [AICE(인공지능 자격증): Basic, Associate 사내교육 진행 전직원 합격](https://www.hankyung.com/article/2023112767311)
+- [AICE(인공지능 자격증): Basic, Associate 사내교육 진행 전직원합격](https://www.hankyung.com/article/2023112767311)
 
 #### 🏆Awards
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
