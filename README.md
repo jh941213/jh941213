@@ -46,7 +46,9 @@
 - Kaggle 1st and Future - Player Contact Detection’ **Bronze**
 - Kaggle ’**Counting and categorizing vehicles in surveillance’ 1위 상금 20만원**
 - Dacon **‘멀티모달 이미지 기반질의 응답’** 2위 WINNER
-- Dacon **Gold 등급 달성 전국순위 30등** of 88280
+- Dacon **Challenger 등급 상위 0.1%**
+<img width="500" alt="스크린샷 2023-12-01 오후 11 34 10" src="https://github.com/jh941213/jh941213/assets/112835087/80c93f7d-e7d5-4b6d-8525-6ece75870730">
+
 
 #### 📝 Result
 - Kaggle’****Playground Series - Season 3, Episode 10’  91st of 807 상위 12%**
