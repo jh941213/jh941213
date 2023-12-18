@@ -1,7 +1,7 @@
 # MY Engeineering note
 #### 
 ### 1. I'M ?!
-#### ৹ Jae Hyun Kim(Simon) / 28 / Engineer
+#### ৹ Jae Hyun Kim(Simon) / 29 / Engineer
 
 #### 📱Contact
 
@@ -51,7 +51,7 @@
 
 
 #### 📝 Result
-- Kaggle’****Playground Series - Season 3, Episode 10’  91st of 807 상위 12%**
+- Kaggle’**Playground Series - Season 3, Episode 10’  91st of 807 상위 12%**
 - Dacon ‘**제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’  public(11위) private(23위) 상위 6%**
 - Dacon ‘**데이콘 Basic 전화 해지 여부 분류 AI 경진대회’ 34/761  상위 5%**
 - Dacon ‘**데이콘 ChatGPT 활용 AI 경진대회’  49/556  상위 10%**
