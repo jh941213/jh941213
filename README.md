@@ -38,6 +38,8 @@
 - 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터
 - 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더
 - 2023.10 ~ 2023.11 NAVER A.I Boost Study 13기 리더
+- 2024.01 ~ 2023.03 NAVER A.I Boost Study 14기 부스터
+- 2024.01 ~ 2024.03 NAVER BoostClass 인공지능 AI 기초다지기 수료
 - 2023.11 ~ 2023.12 GPTers Langchain Study 참여
 - 2024.01 ~ 2023.04 모두연 : 풀잎스쿨 (Langchain 으로 매주 서비스 만들기) 리더
 - 2024.01 ~ 2024.02 디노랩스 1기 참여중
