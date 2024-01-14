@@ -2,7 +2,7 @@
 #### 
 ### 1. I'M ?!
 #### ৹ Jae Hyun Kim(Simon) / 30 / AI Engineer
-
+저는 생성형 AI 관련하여 관심이 많습니다.
 #### 📱Contact
 
 
@@ -37,6 +37,8 @@
 - 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더
 - 2023.10 ~ 2023.11 NAVER A.I Boost Study 13기 리더
 - 2023.11 ~ 2023.12 GPTers Langchain Study 참여
+- 2024.01 ~ 2023.04 모두연 : 풀잎스쿨 (Langchain 으로 매주 서비스 만들기) 리더
+- 2024.01 ~ 2024.02 디노랩스 1기 참여중
 - [AICE(인공지능 자격증): Basic, Associate 사내교육 진행 후 전직원 합격](https://www.hankyung.com/article/2023112767311)
 
 #### 🏆Awards
@@ -61,6 +63,15 @@
 - Dacon ‘**데이콘 Basic 자동차 가격 예측 AI 경진대회’ 13/392 상위5%**
 - Dacon ‘**월간 데이콘 법원 판결 예측 AI 경진대회’ 48/506 상위10%**
 - Dacon ‘**합성데이터 기반 객체 탐지 AI 경진대회’ 54/1461 상위10%**
+- Dacon ‘**제주도 특산품 가격 예측**’ 상위 9%
+
+#### 📜 Certification
+- AICE: Associate (인공지능 자격증)
+- 네트워크 관리사 2급
+- [Prompt Engineering for ChatGPT - VANDERBILT UNIVERSITY (Coursera) 수료](https://www.coursera.org/account/accomplishments/verify/4A6P8RT54UGH)
+- [ChatGPT Advanced Data Analysis - VANDERBILT UNIVERSITY (Coursera) 수료](https://coursera.org/share/35aff42ebacbed6547bba595f3a4a05a)
+- 프롬프톤 지도자 자격증 - Wrtn
+- 프롬프트 스페셜 리스트 - Wrtn
 
 ####  
 ### 2. My Computer Engeineering Language 
