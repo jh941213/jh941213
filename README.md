@@ -45,8 +45,9 @@
 - 2024.01 ~ 2024.03 NAVER BoostClass 인공지능 AI 기초다지기 수료
 - 2023.11 ~ 2023.12 GPTers Langchain Study 참여
 - 2024.01 ~ 2023.04 모두연 : 풀잎스쿨 (Langchain 으로 매주 서비스 만들기) 리더
-- 2024.01 ~ 2024.02 디노랩스 1기 참여중
-- [AICE(인공지능 자격증): Basic, Associate 사내교육 진행 후 전직원 합격](https://www.hankyung.com/article/2023112767311)
+- 2024.01 ~ 2024.02 디노랩스 1기 
+- 2024 03 ~ 디노랩스 2기 (AI Study)
+- 2024.03 ~ 가짜연구소 8기 (랭체인) 러너
 
 #### 🏆Awards
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
@@ -57,7 +58,7 @@
 - Kaggle ’**Counting and categorizing vehicles in surveillance’ 1위 상금 20만원**
 - Dacon **‘멀티모달 이미지 기반질의 응답’** 2위 WINNER
 - Dacon **Challenger 등급 상위 0.1%**
-<img width="500" alt="스크린샷 2023-12-01 오후 11 34 10" src="https://github.com/jh941213/jh941213/assets/112835087/80c93f7d-e7d5-4b6d-8525-6ece75870730">
+
 
 
 #### 📝 Result
