@@ -18,6 +18,8 @@
 
 **Tech Blog(회사)** : [https://wiz-tech.tistory.com/](https://https://wiz-tech.tistory.com/)
 
+**My Hugging FACE ** : [https://huggingface.co/jaehy12](https://huggingface.co/jaehy12)
+
 
 #### 📚 MY Notion
 <a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
