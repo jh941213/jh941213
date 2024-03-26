@@ -18,7 +18,7 @@
 
 **Tech Blog(회사)** : [https://wiz-tech.tistory.com/](https://https://wiz-tech.tistory.com/)
 
-**My Hugging FACE ** : [https://huggingface.co/jaehy12](https://huggingface.co/jaehy12)
+**My Hugging FACE** : [https://huggingface.co/jaehy12](https://huggingface.co/jaehy12)
 
 
 #### 📚 MY Notion
