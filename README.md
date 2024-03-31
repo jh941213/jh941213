@@ -24,6 +24,8 @@
 #### 📚 MY Notion
 <a href="https://jh941213.notion.site/Jae-Hyun-Kim-025371fbbc904547a69f0b33bc8e45f4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/jh941213" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+#### 🗞️ My Media
+- [멘토링](https://alpacocampus.oopy.io/37fd0d1c-cd73-43e6-ac5e-2635d1af0bd7)
 
 #### 📜Paper Review
 - [논문 리뷰](https://jh941213.notion.site/jh941213/Paper-Review-b79a28f99d19420e999b935c91909bc3)
