@@ -14,9 +14,7 @@
 
 **blog(벨로그) :** [https://velog.io/@jh1213](https://velog.io/@jh1213) 
 
-**blog(티스토리)** : [https://hyun941213.tistory.com/](https://hyun941213.tistory.com/)
-
-**Tech Blog(회사)** : [https://wiz-tech.tistory.com/](https://https://wiz-tech.tistory.com/)
+**blog(Tech blog)** : [https://hyun941213.tistory.com/](https://hyun941213.tistory.com/)
 
 **My Hugging FACE** : [https://huggingface.co/jaehy12](https://huggingface.co/jaehy12)
 
