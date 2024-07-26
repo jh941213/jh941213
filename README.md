@@ -38,7 +38,7 @@
 - 2023.05 ~ 2024.05 WIZnet A.I Engineer
 - 2024.05 ~ **KTds DX 개발팀**
 - 2024.05 ~ 2024.06 NAVER Connect x 모두의 연구소 Let`s AI 코칭스터디 - 코딩코치
-- 2024.05 ~ 2024.06 NAVER Connect x 모두의 연구소 Data Science 2024 코칭스터디 - 코딩코치
+- 2024.05 ~ 2024.06 NAVER Connect x 모두의 연구소 Data Science 2024 코칭스터디 - 코딩코치
 - 2024.05 ~ 2024.06 NAVER Connect : AI 엔지니어 기초다지기 (KDT) - 코치 및 멘토링
 
 #### 🖨️ Outside Activities
