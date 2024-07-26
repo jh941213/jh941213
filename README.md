@@ -2,21 +2,23 @@
 #### 
 ### 1. I'M ?!
 #### ৹ Jae Hyun Kim(Simon) / 30 / AI Engineer
-저는 생성형 AI 관련하여 관심이 많습니다.
+- 생성형 AI LLM 을 주로 사용하는것을 좋아합니다.
 #### 📱Contact
 
 
 **Phone** : 010-2920-4946
 
-**Github**: [https://github.com/jh941213](https://github.com/jh941213)
+**Github** : [https://github.com/jh941213](https://github.com/jh941213)
 
-**Email :** hyun030508@icloud.com
+**Email** : hyun030508@icloud.com
 
-**blog(벨로그) :** [https://velog.io/@jh1213](https://velog.io/@jh1213) 
+**blog(벨로그)** : [https://velog.io/@jh1213](https://velog.io/@jh1213) 
 
 **blog(Tech blog)** : [https://hyun941213.tistory.com/](https://hyun941213.tistory.com/)
 
 **My Hugging FACE** : [https://huggingface.co/jaehy12](https://huggingface.co/jaehy12)
+
+**Linkdin** : [https://www.linkedin.com/in/kjh941213/](https://www.linkedin.com/in/kjh941213/)
 
 
 #### 📚 MY Notion
@@ -32,8 +34,12 @@
 - 2011 MBCgameHeros Online Tranie by SC1
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
 - 2022.09 ~ 2023.03 딥러닝 부트캠프(알파코)
-- 2021.08 ~ 2022. 09 BGF Retail
-- 2023.05 ~  A.I Engineer  
+- 2021.08 ~ 2022.09 BGF Retail
+- 2023.05 ~ 2024.05 WIZnet A.I Engineer
+- 2024.05 ~ **KTds DX 개발팀**
+- 2024.05 ~ 2024.06 NAVER Connect x 모두의 연구소 Let`s AI 코칭스터디 - 코딩코치
+- 2024.05 ~ 2024.06 NAVER Connect x 모두의 연구소 Data Science 2024 코칭스터디 - 코딩코치
+- 2024.05 ~ 2024.06 NAVER Connect : AI 엔지니어 기초다지기 (KDT) - 코치 및 멘토링
 
 #### 🖨️ Outside Activities
 - 2022.12 감염병 대응 빅데이터 심화교육 - 한국과학기술연구원
@@ -41,16 +47,17 @@
 - 2023.04.12 ~ 2023.04.15 R 언어 통계활용으로 눈문작성 - 국립중앙도서관
 - 2020.10 ~ 2021.03 정보시스템 보안 엔지니어 양성(KGITBank)
 - 2022.10 ~ 2022.03 딥러닝 Boot Camp
-- 2023.01 ~ 2023.03 NAVER A.I Boost Study 9기 부스터
-- 2023.05 ~ 2023.06 NAVER A.I Boost Study 10기 리더
-- 2023.10 ~ 2023.11 NAVER A.I Boost Study 13기 리더
-- 2024.01 ~ 2023.03 NAVER A.I Boost Study 14기 부스터
-- 2024.01 ~ 2024.03 NAVER BoostClass 인공지능 AI 기초다지기 수료
+- 2023.01 ~ 2023.03 NAVER Connect A.I Boost Study 9기 부스터
+- 2023.05 ~ 2023.06 NAVER Connect A.I Boost Study 10기 리더
+- 2023.10 ~ 2023.11 NAVER Connect A.I Boost Study 13기 리더
+- 2024.01 ~ 2023.03 NAVER Connect A.I Boost Study 14기 부스터
 - 2023.11 ~ 2023.12 GPTers Langchain Study 참여
-- 2024.01 ~ 2023.04 모두연 : 풀잎스쿨 (Langchain 으로 매주 서비스 만들기) 리더
+- 2024.01 ~ 2023.04 모두연 : 풀잎스쿨 (Langchain 으로 매주 서비스 만들기) 퍼실이(리더)
 - 2024.01 ~ 2024.02 디노랩스 1기 
-- 2024 03 ~ 디노랩스 2기 (AI Study)
-- 2024.03 ~ 가짜연구소 8기 (랭체인) 러너
+- 2024 03 ~ 2024.04 디노랩스 2기 (AI Study)
+- 2024.03 ~ 2024.05 가짜연구소 8기 (랭체인) 러너
+- 2024.05 ~ 2024.07 모두연 : 풀잎스쿨 (hyperclova 페르소나 챗봇)
+- 2024.08 ~ 2024.10 모두연 : 풀잎스쿨 (실전 RAG 구축으로 역량강화하기) 퍼실이(리더)
 
 #### 🏆Awards
 - 딥러닝 부트캠프 4기 자연어처리 **우수교육생**
@@ -61,6 +68,7 @@
 - Kaggle ’**Counting and categorizing vehicles in surveillance’ 1위 상금 20만원**
 - Dacon **‘멀티모달 이미지 기반질의 응답’** 2위 WINNER
 - Dacon **Challenger 등급 상위 0.1%**
+- 네이버 클라우드 **HyperClovaX AI 막차타기 프로젝트 2위**
 
 
 
@@ -74,7 +82,8 @@
 - Dacon ‘**데이콘 Basic 자동차 가격 예측 AI 경진대회’ 13/392 상위5%**
 - Dacon ‘**월간 데이콘 법원 판결 예측 AI 경진대회’ 48/506 상위10%**
 - Dacon ‘**합성데이터 기반 객체 탐지 AI 경진대회’ 54/1461 상위10%**
-- Dacon ‘**제주도 특산품 가격 예측**’ 상위 9%
+- Dacon ‘**제주도 특산품 가격 예측’ 상위 9%**
+  
 
 #### 📜 Certification
 - AICE: Associate (인공지능 자격증)
