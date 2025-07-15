@@ -4,6 +4,9 @@
   
 ## 🌟 연락처 정보
 
+### 🏢 소속
+**KT ds MS AI Tech 전임**
+
 ---
 
 ### 📧 이메일
@@ -19,28 +22,32 @@
 
 </div>
 
-## 📬 연락 방법
-
-| 플랫폼 | 링크 | 설명 |
-|--------|------|------|
-| 📧 **이메일** | hyun030508@gmail.com | 업무 문의 및 연락 |
-| 🌐 **웹사이트** | [kdb94.ai.kr](http://kdb94.ai.kr/) | 포트폴리오 및 프로젝트 |
-| 💼 **LinkedIn** | [kjh941213](https://www.linkedin.com/in/kjh941213/) | 전문 네트워킹 |
-
----
-
 <div align="center">
   
 ### 🤝 언제든지 연락주세요!
 
 **빠른 응답을 원하시면 이메일로 연락해주세요** ✉️
 
+<br><br>
+
+#### 💡 AI Tech 관련 문의나 협업 제안 환영합니다!
+
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Company-KT%20ds%20MS%20AI%20Tech-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6Ii8+PC9zdmc+&logoColor=white" alt="Company" />
+  <br><br>
   <img src="https://img.shields.io/badge/Email-hyun030508@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   <img src="https://img.shields.io/badge/Website-kdb94.ai.kr-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   <img src="https://img.shields.io/badge/LinkedIn-kjh941213-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech-AI%20%26%20Machine%20Learning-brightgreen?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Tech" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-orange?style=flat-square&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Role-전임-lightgrey?style=flat-square&logo=briefcase&logoColor=white" alt="Role" />
 </div>
