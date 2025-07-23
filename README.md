@@ -30,14 +30,13 @@
 
 <br><br>
 
-#### 💡 AI Tech 관련 문의나 협업 제안, 커피챗 환영합니다!
+#### 💡 AI 관련 문의나 협업 제안, 커피챗 환영합니다!
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Company-KT%20ds%20MS%20AI%20Tech-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6Ii8+PC9zdmc+&logoColor=white" alt="Company" />
   <br><br>
   <img src="https://img.shields.io/badge/Email-hyun030508@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   <img src="https://img.shields.io/badge/Website-kdb94.ai.kr-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
