@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kjh941213-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjh941213/)
 [![Email](https://img.shields.io/badge/Email-hyun030508@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun030508@gmail.com)
 
-**AI Agent Platform Engineer @ KT ds · Seoul**
+**Software Engineer @ KT ds**
 
 에이전트 시스템을 설계하고 프로덕션에 배포합니다.  
 RAG · Multi-Agent · LLM Ops · 노코드 에이전트 빌더
